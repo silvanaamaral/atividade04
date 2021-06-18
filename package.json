@@ -1,0 +1,24 @@
+{
+  "name": "atividade04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvanaamaral/Reprograma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvanaamaral/Reprograma/issues"
+  },
+  "homepage": "https://github.com/silvanaamaral/Reprograma#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "readline-sync": "^1.4.10"
+  }
+}
